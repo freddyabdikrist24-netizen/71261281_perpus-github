@@ -1,2 +1,4 @@
 Nama : Freddy
-NIM ; 71261281
+NIM : 71261281
+
+Fitur Peminjaman
